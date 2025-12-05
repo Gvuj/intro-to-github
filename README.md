@@ -1,9 +1,9 @@
 # intro-to-github
 Make changes to this README file and commit :)
 
-- Name:
-- Grade Level:
-- Favorite Color:
-- Favorite Animal: 
-- Hobbies:
-- Thoughts on FRC:
+- Name: Jason Vo
+- Grade Level: 9
+- Favorite Color: Steel Blue
+- Favorite Animal: Cat
+- Hobbies: Sports
+- Thoughts on FRC: Yay wow super fun
